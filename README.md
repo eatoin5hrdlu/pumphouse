@@ -25,7 +25,7 @@ The Arduino reads each analog input three times and averages the result.
 The logging software reads these averages three times and prints them.
 (Sorry everything is in threes, that's confusing).
 
-Every number you see is an average of three readings, but then I print out three of those (averaged) readings, to show that there is some variability even after that first level of averaging.  Conductivity is very stable when the rods are dray, since we are pulling the stainless steel rod high with 10M ohms, but the Analog range is between 0 and 1.1 volts. A 10 M pullup in conjunction with a 4.7M ohm pulldown resistor might increase sensitivity by using more of the analog to digital converter input range.
+Every number you see is an average of three readings, but then I print out three of those (averaged) readings, to show that there is some variability even after that first level of averaging.  Conductivity is very stable when the rods are dry, since we are pulling the stainless steel rod high with 10M ohms, but the Analog range is between 0 and 1.1 volts. A 10 M pullup in conjunction with a 4.7M ohm pulldown resistor might increase sensitivity by using more of the analog to digital converter input range.
 
 Note the following in the Arduino output below:
 
