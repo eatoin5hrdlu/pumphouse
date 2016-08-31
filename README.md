@@ -1,5 +1,5 @@
 # pumphouse
-![alt tag](bottom.jpg)
+![alt tag](Well_Ghana_20151122_171003.jpg)
 
 Arduino software for a device to measure water flow by logging the air temperature, the temperature in the stream of water, and the conductivity between two stainless steel rods in the stream of water.
 
